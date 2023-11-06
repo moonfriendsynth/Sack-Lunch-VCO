@@ -1,0 +1,22 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.8*%
+%TF.CreationDate,2023-10-24T12:55:46-07:00*%
+%TF.ProjectId,VCO Front Plate,56434f20-4672-46f6-9e74-20506c617465,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Bot*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.8) date 2023-10-24 12:55:46*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,7.000000*%
+G04 APERTURE END LIST*
+D10*
+X110874674Y-130255841D02*
+G75*
+G03*
+X110874674Y-130255841I-2777205J0D01*
+G01*
+M02*

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "VCO Front Plate")(type KiCad)(uri "C:/Users/Steve/Documents/VCO Front Plate")(options "")(descr ""))
+  (lib (name "VCO Front Panel")(type KiCad)(uri "C:/Users/Steve/Documents/VCO Front Panel")(options "")(descr ""))
+)

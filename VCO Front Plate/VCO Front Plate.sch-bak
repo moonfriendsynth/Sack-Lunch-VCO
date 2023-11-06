@@ -1,0 +1,90 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Mechanical:MountingHole_Pad H3
+U 1 1 6169BDB8
+P 3700 3400
+F 0 "H3" H 3800 3449 50  0000 L CNN
+F 1 "MountingHole_Pad" H 3800 3358 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad" H 3700 3400 50  0001 C CNN
+F 3 "~" H 3700 3400 50  0001 C CNN
+	1    3700 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H2
+U 1 1 6169C1F9
+P 2800 3400
+F 0 "H2" H 2900 3449 50  0000 L CNN
+F 1 "MountingHole_Pad" H 2900 3358 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad" H 2800 3400 50  0001 C CNN
+F 3 "~" H 2800 3400 50  0001 C CNN
+	1    2800 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H1
+U 1 1 6169C958
+P 1950 3400
+F 0 "H1" H 2050 3449 50  0000 L CNN
+F 1 "MountingHole_Pad" H 2050 3358 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad" H 1950 3400 50  0001 C CNN
+F 3 "~" H 1950 3400 50  0001 C CNN
+	1    1950 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H4
+U 1 1 6169D33B
+P 4800 3400
+F 0 "H4" H 4900 3449 50  0000 L CNN
+F 1 "MountingHole_Pad" H 4900 3358 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad" H 4800 3400 50  0001 C CNN
+F 3 "~" H 4800 3400 50  0001 C CNN
+	1    4800 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0101
+U 1 1 6169D7D5
+P 1950 4000
+F 0 "#PWR0101" H 1950 3750 50  0001 C CNN
+F 1 "GND" H 1955 3827 50  0000 C CNN
+F 2 "" H 1950 4000 50  0001 C CNN
+F 3 "" H 1950 4000 50  0001 C CNN
+	1    1950 4000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1950 3500 1950 3800
+Wire Wire Line
+	2800 3500 2800 3800
+Wire Wire Line
+	2800 3800 1950 3800
+Connection ~ 1950 3800
+Wire Wire Line
+	1950 3800 1950 4000
+Wire Wire Line
+	3700 3500 3700 3800
+Wire Wire Line
+	3700 3800 2800 3800
+Connection ~ 2800 3800
+Wire Wire Line
+	4800 3500 4800 3800
+Wire Wire Line
+	4800 3800 3700 3800
+Connection ~ 3700 3800
+$EndSCHEMATC
