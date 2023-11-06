@@ -7,7 +7,7 @@ You can find the schematic here as well as gerbers for the PCBs and front panel.
 
 <b>If you want to print this yourself</b>
 <br>Please be aware, I have made a few changes to these gerbers since I last printed them. The changes were minor, but I have no verified them myself. Print at your own (very small) risk.
-<br>download Sack Lunch VCO Board A Gerbers.zip, Sack Lunch VCO Board b Gerbers.zip, and VCO Front Plate Gerbers.zip. I used JLCPCB to print mine, and you can probably get these for about $10-15 plus shipping (which is another $15). Or email me moonfriendsynth@gmail.com and I'll send you an old version (which still works just as good with two minor changes) for much cheaper.
+<br><br>To print, download Sack Lunch VCO Board A Gerbers.zip, Sack Lunch VCO Board b Gerbers.zip, and VCO Front Plate Gerbers.zip. I used JLCPCB to print mine, and you can probably get these for about $10-15 plus shipping (which is another $15). Or email me moonfriendsynth@gmail.com and I'll send you an old version (which still works just as good with two minor changes) for much cheaper.
 
 <b>Features</b>
 1. 3 waveform outputs 10vpp
