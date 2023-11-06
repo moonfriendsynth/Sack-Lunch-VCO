@@ -21,9 +21,3 @@ You can find the schematic here as well as gerbers for the PCBs and front panel.
 9. 2 forms of circuit protection: schottky diodes on the power rails, which will prevent damage in the case of polarity reversal, and a shrowded box header on the power pins. Apparently a lot of companies do not use these box headers, which is confusing since they are super cheap and they have the benefit of physically preventing you from pluggin power in backward. Seems like a no-brainer. 
 10. A little owl, hanging out
 11. A topographical map of Mount Rainier in the background, if you ever find yourself lost out there with only your trusty VCO to guide you
-
-<b>Notes:</b>
-There are a few things about the gerbers that are out of date or a little wonky. I recommend that if you print your own, please consider the following information:
-1. The PCB is marked for 10R resistors on the power rails. You can use 10R resistors if you want, but it is much safer to use schottsy diodes like the 1n5817. If you do use diodes, PLEASE NOTE that they are not oriented the way that you might guess. Both diodes need to be "pointed" out with the cathode side closest to the side of the PCB. Please see the picture in the folder called "DIODE ORIENTATION".
-2. R6 and R9 need to be swapped. When I first printed these PCBs, the COARSE knob was the big knob, but I soon wanted to change this, and the simplist way to do it was to print new front panels and just swap those two resistors around.
-3. The holes for the trimmers are a liitle tight. You might consider enlarging them by like 0.2mm if you know KiCad well enough to do that.
