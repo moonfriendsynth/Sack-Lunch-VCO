@@ -1,0 +1,45 @@
+Moon Friend Synth,,,,
+Sack Lunch VCO Bill of Materials,,,,
+Version 1 Revision 3,,,,
+,,,,
+Reference(s),Qty,Value,Notes,Link to buy
+"C1, C4, C10",3,47u,,https://www.taydaelectronics.com/47uf-50v-105c-radial-electrolytic-capacitor-6x11mm.html
+"C2, C6, C8, C9, C15, C16",6,0.1UF,,https://www.taydaelectronics.com/10-x-0-1uf-50v-ceramic-disc-capacitor-pkg-of-10.html
+"C3, C5, C11, C12",4,10 NF,,https://www.taydaelectronics.com/10nf-0-01uf-100v-5-polyester-film-box-type-capacitor.html
+C7,1,1 NF,Must be polyester film,https://www.taydaelectronics.com/wima-fks2-100nf-0-001uf-100v-5-polyester-film-box-type-capacitor.html
+"C13, C14",2,10u,,https://www.taydaelectronics.com/10uf-50v-105c-radial-electrolytic-capacitor-5x11mm.html
+D1,1,LED,,https://www.taydaelectronics.com/leds/round-leds/5mm-leds.html
+"D2, D3",2,1n5817,you can also use a 1n5818 or 1n5819,https://www.taydaelectronics.com/1n5817-diode-schottky-1a-20v.html
+"J1, J2, J3, J4, J5, J6, J7",7,Mono jack,"The jacks at Tayda are good, but they are not as high quality as the ones can get at Thonk.co.uk",https://www.taydaelectronics.com/hardware/3-5mm-plugs-jacks/pj-3001f-3-5-mm-mono-phone-jack.html
+,,,,https://www.thonk.co.uk/shop/3-5mm-jacks/
+,,,,
+J8,1,Conn_02x5,,https://www.taydaelectronics.com/10-pin-box-header-connector-2-54mm.html
+R27,,RL,"When in doubt, get 2.2k",
+"R11, R17",,470R,,
+R4,1,620R,Buy all your resistors using this link,https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors.html
+"R28, R29, R30",3,1K,,
+R13,1,1.8k,All resistors are 1/4W,
+R8,1,5.6k,,
+"R1, R10, R19",3,10K,,
+R7,1,24k,,
+R5,1,47k,,
+"R3, R6, R12, R14, R25, R26",1,100K,,
+"R15, R23",2,150K,,
+R24,1,200K,,
+R18,1,1M,,
+R16,1,1.5M,,
+R2,1,2.2M,,
+R9,1,5.6M,,
+R20,1,100k Potentiometer,"There are a few different options for potentiometers at Tayda. If you want the top quality, search for Alpha. You can also get different shaft types, just make sure that it is a linear taper",https://www.taydaelectronics.com/tayda-100k-ohm-linear-taper-potentiometer-round-shaft-pcb-9mm-6-35-mm.html
+"R21, R31, R33",3,Tall Trimmer 100K,"If you are in the US, synthcube is probably the place to get these, however, sometimes, the total price from Thonk can be cheaper. If you don't want to make a special order just for these 3 pots, you can find shorter alternatives on Tayda. If you buy normal metal shaft versions, just keep in mind that the holes on the front panel are not big enough. You can probably drill them out pretty easily if you want to go that route",https://synthcube.com/cart/song-huei-9mm-panel-trim-pot-tall?search=song%20huei%20tall&description=true
+"RP1, RP2, RP3",3,20k,,https://www.taydaelectronics.com/potentiometer-variable-resistors/cermet-potentiometers/20k-ohm-trimmer-potentiometer-cermet-25-turns-3296w.html
+U1,1,TL074,,https://www.taydaelectronics.com/tl074-quad-operational-amplifier-j-fet-pdip-14-tl074cn.html
+U2,1,AS3340,Make sure you buy the correct one!!!!,https://synthcube.com/cart/alfa-rpar-as3340-as3340a-vco-ic?search=As3340&description=true
+,,,UK link,https://www.thonk.co.uk/shop/alpha-as-series-ic-chips/
+IC Adapter,1,14 pin,,https://www.taydaelectronics.com/14-pin-dip-ic-socket-adaptor-solder-type.html
+IC Adapter,1,16 pin,,https://www.taydaelectronics.com/16-pin-dip-ic-socket-adaptor-solder-type.html
+Header Male,2,"01x05, 2.54mm",You might just want to get a big 40 version of these and cut them down as you need them,https://www.taydaelectronics.com/5-pin-2-54-mm-single-row-pin-header-strip.html
+Header Female,2,"01x05, 2.54mm",,https://www.taydaelectronics.com/5-pin-2-54-mm-single-row-female-pin-header.html
+Standoff,1,M3x10mm,"optional, extra stability",https://www.taydaelectronics.com/brass-standoff-spacer-screw-hex-male-m3x10mm-golden.html
+Nut,1,M3,buy this if you get the standoff,https://www.taydaelectronics.com/nut-3mm-for-screw-m3.html
+Screw,1,M3x6mm,buy this if you get the standoff,https://www.taydaelectronics.com/m3-steel-screw-cross-round-head-m3x6mm.html
